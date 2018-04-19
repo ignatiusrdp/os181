@@ -10,3 +10,7 @@ ZCZC W03 Running lab in putty
 ZCZC W04 Running lab as usual
 
 ZCZC W05 Done running this week lab 
+
+ZCZC W06 Done running lab 
+
+ZCZC W07 Done running lab 
