@@ -14,3 +14,5 @@ ZCZC W05 Done running this week lab
 ZCZC W06 Done running lab 
 
 ZCZC W07 Done running lab 
+
+ZCZC W08 Running lab but somethings done get it 
